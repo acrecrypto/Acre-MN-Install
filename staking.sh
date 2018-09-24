@@ -51,6 +51,11 @@ echo "daemon=1" >> acre.conf
 echo "logtimestamps=1" >> acre.conf
 echo "maxconnections=256" >> acre.conf
 echo "port=5858" >> acre.conf
+echo "addnode=140.82.22.175" >> acre.conf
+echo "addnode=45.32.95.220" >> acre.
+echo "addnode=217.69.5.13" >> acre.conf
+echo "addnode=209.250.255.142" >> acre.conf
+echo "addnode=45.77.141.104" >> acre.conf
 mv acre.conf .acre
 
   
