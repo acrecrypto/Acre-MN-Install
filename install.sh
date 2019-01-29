@@ -83,8 +83,8 @@ set -- "${POSITIONAL[@]}" # restore positional parameters
 clear
 
 # Set these to change the version of acre to install
-TARBALLURL="https://github.com/acrecrypto/Acre/releases/download/2.0.0/acre-2.0.0-x86_64-linux-gnu.tar.gz"
-TARBALLNAME="acre-2.0.0-x86_64-linux-gnu.tar.gz"
+TARBALLURL="https://github.com/acrecrypto/Acre/releases/download/2.1.0/acre-2.1.0-x86_64-linux-gnu.tar.gz"
+TARBALLNAME="acre-2.1.0-x86_64-linux-gnu.tar.gz"
 BOOTSTRAPURL=""
 BOOTSTRAPARCHIVE=""
 BWKVERSION="1.0.0"
